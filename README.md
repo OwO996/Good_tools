@@ -15,3 +15,4 @@
 13. VLC media player - 开源跨平台多媒体播放器: https://www.videolan.org/;
 14. SMPlayer - 免费多媒体播放器: https://www.smplayer.info/;
 15. Everything - Win桌面搜索引擎: https://www.voidtools.com/zh-cn/downloads/;
+16. Honeyview - 图片浏览器: https://cn.bandisoft.com/honeyview/;
